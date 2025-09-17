@@ -1,0 +1,180 @@
+Type,Name,ParentPath,Description
+Enterprise,Enterprise,"DC=itpositive,DC=com",Enterprise Root Organization Unit
+Country,Canada,"OU=Enterprise,DC=itpositive,DC=com",Canada Branch
+Country,France,"OU=Enterprise,DC=itpositive,DC=com",France Branch
+Country,USA,"OU=Enterprise,DC=itpositive,DC=com",USA Headquarters
+Country,Germany,"OU=Enterprise,DC=itpositive,DC=com",Germany Branch
+Country,UK,"OU=Enterprise,DC=itpositive,DC=com",United Kingdom Branch
+Country,UAE,"OU=Enterprise,DC=itpositive,DC=com",United Arab Emirates Branch
+Country,Qatar,"OU=Enterprise,DC=itpositive,DC=com",Qatar Branch
+Country,China,"OU=Enterprise,DC=itpositive,DC=com",China Branch
+Country,Spain,"OU=Enterprise,DC=itpositive,DC=com",Spain Branch
+City,Toronto,"OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Toronto Office
+City,Vancouver,"OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Vancouver Office
+City,Paris,"OU=France,OU=Enterprise,DC=itpositive,DC=com",Paris Office
+City,Lyon,"OU=France,OU=Enterprise,DC=itpositive,DC=com",Lyon Office
+City,New York HQ,"OU=USA,OU=Enterprise,DC=itpositive,DC=com",New York Headquarters
+City,Chicago,"OU=USA,OU=Enterprise,DC=itpositive,DC=com",Chicago Office
+City,Frankfurt,"OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Frankfurt Office
+City,Berlin,"OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Berlin Office
+City,London Branch,"OU=UK,OU=Enterprise,DC=itpositive,DC=com",London Office
+City,Dubai,"OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Dubai Office
+City,Doha,"OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Doha Office
+City,Hong Kong,"OU=China,OU=Enterprise,DC=itpositive,DC=com",Hong Kong Office
+City,Madrid,"OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Madrid Office
+Department,Trading,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Toronto
+Department,Compliance,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Toronto
+Department,IT,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",IT Department in Toronto
+Department,HR,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",HR Department in Toronto
+Department,Operations,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Toronto
+Department,Finance,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Toronto
+Department,Legal,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Toronto
+Department,Marketing,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Toronto
+Department,Customer Service,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Toronto
+Department,Treasury Management,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Toronto
+Department,Business Banking,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Toronto
+Department,Investment Banking,"OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Toronto
+Department,Trading,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Vancouver
+Department,Compliance,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Vancouver
+Department,IT,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",IT Department in Vancouver
+Department,HR,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",HR Department in Vancouver
+Department,Operations,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Vancouver
+Department,Finance,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Vancouver
+Department,Legal,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Vancouver
+Department,Marketing,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Vancouver
+Department,Customer Service,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Vancouver
+Department,Treasury Management,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Vancouver
+Department,Business Banking,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Vancouver
+Department,Investment Banking,"OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Vancouver
+Department,Trading,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Paris
+Department,Compliance,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Paris
+Department,IT,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",IT Department in Paris
+Department,HR,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",HR Department in Paris
+Department,Operations,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Paris
+Department,Finance,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Paris
+Department,Legal,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Paris
+Department,Marketing,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Paris
+Department,Customer Service,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Paris
+Department,Treasury Management,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Paris
+Department,Business Banking,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Paris
+Department,Investment Banking,"OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Paris
+Department,Trading,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Lyon
+Department,Compliance,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Lyon
+Department,IT,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",IT Department in Lyon
+Department,HR,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",HR Department in Lyon
+Department,Operations,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Lyon
+Department,Finance,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Lyon
+Department,Legal,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Lyon
+Department,Marketing,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Lyon
+Department,Customer Service,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Lyon
+Department,Treasury Management,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Lyon
+Department,Business Banking,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Lyon
+Department,Investment Banking,"OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Lyon
+Department,Trading,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Trading Department in New York HQ
+Department,Compliance,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in New York HQ
+Department,IT,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",IT Department in New York HQ
+Department,HR,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",HR Department in New York HQ
+Department,Operations,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Operations Department in New York HQ
+Department,Finance,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Finance Department in New York HQ
+Department,Legal,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Legal Department in New York HQ
+Department,Marketing,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in New York HQ
+Department,Customer Service,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in New York HQ
+Department,Treasury Management,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in New York HQ
+Department,Business Banking,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in New York HQ
+Department,Investment Banking,"OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in New York HQ
+Department,Trading,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Chicago
+Department,Compliance,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Chicago
+Department,IT,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",IT Department in Chicago
+Department,HR,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",HR Department in Chicago
+Department,Operations,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Chicago
+Department,Finance,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Chicago
+Department,Legal,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Chicago
+Department,Marketing,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Chicago
+Department,Customer Service,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Chicago
+Department,Treasury Management,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Chicago
+Department,Business Banking,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Chicago
+Department,Investment Banking,"OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Chicago
+Department,Trading,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Frankfurt
+Department,Compliance,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Frankfurt
+Department,IT,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",IT Department in Frankfurt
+Department,HR,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",HR Department in Frankfurt
+Department,Operations,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Frankfurt
+Department,Finance,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Frankfurt
+Department,Legal,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Frankfurt
+Department,Marketing,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Frankfurt
+Department,Customer Service,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Frankfurt
+Department,Treasury Management,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Frankfurt
+Department,Business Banking,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Frankfurt
+Department,Investment Banking,"OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Frankfurt
+Department,Trading,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Berlin
+Department,Compliance,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Berlin
+Department,IT,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",IT Department in Berlin
+Department,HR,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",HR Department in Berlin
+Department,Operations,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Berlin
+Department,Finance,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Berlin
+Department,Legal,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Berlin
+Department,Marketing,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Berlin
+Department,Customer Service,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Berlin
+Department,Treasury Management,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Berlin
+Department,Business Banking,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Berlin
+Department,Investment Banking,"OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Berlin
+Department,Trading,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",Trading Department in London Branch
+Department,Compliance,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in London Branch
+Department,IT,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",IT Department in London Branch
+Department,HR,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",HR Department in London Branch
+Department,Operations,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",Operations Department in London Branch
+Department,Finance,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",Finance Department in London Branch
+Department,Legal,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",Legal Department in London Branch
+Department,Marketing,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in London Branch
+Department,Customer Service,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in London Branch
+Department,Treasury Management,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in London Branch
+Department,Business Banking,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in London Branch
+Department,Investment Banking,"OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in London Branch
+Department,Trading,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Dubai
+Department,Compliance,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Dubai
+Department,IT,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",IT Department in Dubai
+Department,HR,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",HR Department in Dubai
+Department,Operations,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Dubai
+Department,Finance,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Dubai
+Department,Legal,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Dubai
+Department,Marketing,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Dubai
+Department,Customer Service,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Dubai
+Department,Treasury Management,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Dubai
+Department,Business Banking,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Dubai
+Department,Investment Banking,"OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Dubai
+Department,Trading,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Doha
+Department,Compliance,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Doha
+Department,IT,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",IT Department in Doha
+Department,HR,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",HR Department in Doha
+Department,Operations,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Doha
+Department,Finance,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Doha
+Department,Legal,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Doha
+Department,Marketing,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Doha
+Department,Customer Service,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Doha
+Department,Treasury Management,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Doha
+Department,Business Banking,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Doha
+Department,Investment Banking,"OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Doha
+Department,Trading,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Hong Kong
+Department,Compliance,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Hong Kong
+Department,IT,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",IT Department in Hong Kong
+Department,HR,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",HR Department in Hong Kong
+Department,Operations,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Hong Kong
+Department,Finance,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Hong Kong
+Department,Legal,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Hong Kong
+Department,Marketing,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Hong Kong
+Department,Customer Service,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Hong Kong
+Department,Treasury Management,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Hong Kong
+Department,Business Banking,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Hong Kong
+Department,Investment Banking,"OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Hong Kong
+Department,Trading,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Trading Department in Madrid
+Department,Compliance,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Compliance Department in Madrid
+Department,IT,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",IT Department in Madrid
+Department,HR,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",HR Department in Madrid
+Department,Operations,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Operations Department in Madrid
+Department,Finance,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Finance Department in Madrid
+Department,Legal,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Legal Department in Madrid
+Department,Marketing,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Marketing Department in Madrid
+Department,Customer Service,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Customer Service Department in Madrid
+Department,Treasury Management,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Treasury Management Department in Madrid
+Department,Business Banking,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Business Banking Department in Madrid
+Department,Investment Banking,"OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",Investment Banking Department in Madrid

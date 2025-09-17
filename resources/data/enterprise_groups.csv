@@ -1,0 +1,157 @@
+Name,SamAccountName,GroupCategory,GroupScope,Description,OU,Email
+Toronto-Trading,toronto-trading,Security,Global,Trading team for Toronto,"OU=Trading,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-trading@itpositive.com
+Toronto-Compliance,toronto-compliance,Security,Global,Compliance team for Toronto,"OU=Compliance,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-compliance@itpositive.com
+Toronto-IT,toronto-it,Security,Global,IT team for Toronto,"OU=IT,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-it@itpositive.com
+Toronto-HR,toronto-hr,Security,Global,HR team for Toronto,"OU=HR,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-hr@itpositive.com
+Toronto-Operations,toronto-operations,Security,Global,Operations team for Toronto,"OU=Operations,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-operations@itpositive.com
+Toronto-Finance,toronto-finance,Security,Global,Finance team for Toronto,"OU=Finance,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-finance@itpositive.com
+Toronto-Legal,toronto-legal,Security,Global,Legal team for Toronto,"OU=Legal,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-legal@itpositive.com
+Toronto-Marketing,toronto-marketing,Security,Global,Marketing team for Toronto,"OU=Marketing,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-marketing@itpositive.com
+Toronto-Customer Service,toronto-customer-service,Security,Global,Customer Service team for Toronto,"OU=Customer Service,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-customer-service@itpositive.com
+Toronto-Treasury Management,toronto-treasury-management,Security,Global,Treasury Management team for Toronto,"OU=Treasury Management,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-treasury-management@itpositive.com
+Toronto-Business Banking,toronto-business-banking,Security,Global,Business Banking team for Toronto,"OU=Business Banking,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-business-banking@itpositive.com
+Toronto-Investment Banking,toronto-investment-banking,Security,Global,Investment Banking team for Toronto,"OU=Investment Banking,OU=Toronto,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",toronto-investment-banking@itpositive.com
+Vancouver-Trading,vancouver-trading,Security,Global,Trading team for Vancouver,"OU=Trading,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-trading@itpositive.com
+Vancouver-Compliance,vancouver-compliance,Security,Global,Compliance team for Vancouver,"OU=Compliance,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-compliance@itpositive.com
+Vancouver-IT,vancouver-it,Security,Global,IT team for Vancouver,"OU=IT,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-it@itpositive.com
+Vancouver-HR,vancouver-hr,Security,Global,HR team for Vancouver,"OU=HR,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-hr@itpositive.com
+Vancouver-Operations,vancouver-operations,Security,Global,Operations team for Vancouver,"OU=Operations,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-operations@itpositive.com
+Vancouver-Finance,vancouver-finance,Security,Global,Finance team for Vancouver,"OU=Finance,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-finance@itpositive.com
+Vancouver-Legal,vancouver-legal,Security,Global,Legal team for Vancouver,"OU=Legal,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-legal@itpositive.com
+Vancouver-Marketing,vancouver-marketing,Security,Global,Marketing team for Vancouver,"OU=Marketing,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-marketing@itpositive.com
+Vancouver-Customer Service,vancouver-customer-service,Security,Global,Customer Service team for Vancouver,"OU=Customer Service,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-customer-service@itpositive.com
+Vancouver-Treasury Management,vancouver-treasury-management,Security,Global,Treasury Management team for Vancouver,"OU=Treasury Management,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-treasury-management@itpositive.com
+Vancouver-Business Banking,vancouver-business-banking,Security,Global,Business Banking team for Vancouver,"OU=Business Banking,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-business-banking@itpositive.com
+Vancouver-Investment Banking,vancouver-investment-banking,Security,Global,Investment Banking team for Vancouver,"OU=Investment Banking,OU=Vancouver,OU=Canada,OU=Enterprise,DC=itpositive,DC=com",vancouver-investment-banking@itpositive.com
+Paris-Trading,paris-trading,Security,Global,Trading team for Paris,"OU=Trading,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-trading@itpositive.com
+Paris-Compliance,paris-compliance,Security,Global,Compliance team for Paris,"OU=Compliance,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-compliance@itpositive.com
+Paris-IT,paris-it,Security,Global,IT team for Paris,"OU=IT,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-it@itpositive.com
+Paris-HR,paris-hr,Security,Global,HR team for Paris,"OU=HR,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-hr@itpositive.com
+Paris-Operations,paris-operations,Security,Global,Operations team for Paris,"OU=Operations,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-operations@itpositive.com
+Paris-Finance,paris-finance,Security,Global,Finance team for Paris,"OU=Finance,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-finance@itpositive.com
+Paris-Legal,paris-legal,Security,Global,Legal team for Paris,"OU=Legal,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-legal@itpositive.com
+Paris-Marketing,paris-marketing,Security,Global,Marketing team for Paris,"OU=Marketing,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-marketing@itpositive.com
+Paris-Customer Service,paris-customer-service,Security,Global,Customer Service team for Paris,"OU=Customer Service,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-customer-service@itpositive.com
+Paris-Treasury Management,paris-treasury-management,Security,Global,Treasury Management team for Paris,"OU=Treasury Management,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-treasury-management@itpositive.com
+Paris-Business Banking,paris-business-banking,Security,Global,Business Banking team for Paris,"OU=Business Banking,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-business-banking@itpositive.com
+Paris-Investment Banking,paris-investment-banking,Security,Global,Investment Banking team for Paris,"OU=Investment Banking,OU=Paris,OU=France,OU=Enterprise,DC=itpositive,DC=com",paris-investment-banking@itpositive.com
+Lyon-Trading,lyon-trading,Security,Global,Trading team for Lyon,"OU=Trading,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-trading@itpositive.com
+Lyon-Compliance,lyon-compliance,Security,Global,Compliance team for Lyon,"OU=Compliance,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-compliance@itpositive.com
+Lyon-IT,lyon-it,Security,Global,IT team for Lyon,"OU=IT,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-it@itpositive.com
+Lyon-HR,lyon-hr,Security,Global,HR team for Lyon,"OU=HR,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-hr@itpositive.com
+Lyon-Operations,lyon-operations,Security,Global,Operations team for Lyon,"OU=Operations,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-operations@itpositive.com
+Lyon-Finance,lyon-finance,Security,Global,Finance team for Lyon,"OU=Finance,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-finance@itpositive.com
+Lyon-Legal,lyon-legal,Security,Global,Legal team for Lyon,"OU=Legal,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-legal@itpositive.com
+Lyon-Marketing,lyon-marketing,Security,Global,Marketing team for Lyon,"OU=Marketing,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-marketing@itpositive.com
+Lyon-Customer Service,lyon-customer-service,Security,Global,Customer Service team for Lyon,"OU=Customer Service,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-customer-service@itpositive.com
+Lyon-Treasury Management,lyon-treasury-management,Security,Global,Treasury Management team for Lyon,"OU=Treasury Management,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-treasury-management@itpositive.com
+Lyon-Business Banking,lyon-business-banking,Security,Global,Business Banking team for Lyon,"OU=Business Banking,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-business-banking@itpositive.com
+Lyon-Investment Banking,lyon-investment-banking,Security,Global,Investment Banking team for Lyon,"OU=Investment Banking,OU=Lyon,OU=France,OU=Enterprise,DC=itpositive,DC=com",lyon-investment-banking@itpositive.com
+New York HQ-Trading,new-york-hq-trading,Security,Global,Trading team for New York HQ,"OU=Trading,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-trading@itpositive.com
+New York HQ-Compliance,new-york-hq-compliance,Security,Global,Compliance team for New York HQ,"OU=Compliance,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-compliance@itpositive.com
+New York HQ-IT,new-york-hq-it,Security,Global,IT team for New York HQ,"OU=IT,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-it@itpositive.com
+New York HQ-HR,new-york-hq-hr,Security,Global,HR team for New York HQ,"OU=HR,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-hr@itpositive.com
+New York HQ-Operations,new-york-hq-operations,Security,Global,Operations team for New York HQ,"OU=Operations,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-operations@itpositive.com
+New York HQ-Finance,new-york-hq-finance,Security,Global,Finance team for New York HQ,"OU=Finance,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-finance@itpositive.com
+New York HQ-Legal,new-york-hq-legal,Security,Global,Legal team for New York HQ,"OU=Legal,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-legal@itpositive.com
+New York HQ-Marketing,new-york-hq-marketing,Security,Global,Marketing team for New York HQ,"OU=Marketing,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-marketing@itpositive.com
+New York HQ-Customer Service,new-york-hq-customer-service,Security,Global,Customer Service team for New York HQ,"OU=Customer Service,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-customer-service@itpositive.com
+New York HQ-Treasury Management,new-york-hq-treasury-management,Security,Global,Treasury Management team for New York HQ,"OU=Treasury Management,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-treasury-management@itpositive.com
+New York HQ-Business Banking,new-york-hq-business-banking,Security,Global,Business Banking team for New York HQ,"OU=Business Banking,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-business-banking@itpositive.com
+New York HQ-Investment Banking,new-york-hq-investment-banking,Security,Global,Investment Banking team for New York HQ,"OU=Investment Banking,OU=New York HQ,OU=USA,OU=Enterprise,DC=itpositive,DC=com",new-york-hq-investment-banking@itpositive.com
+Chicago-Trading,chicago-trading,Security,Global,Trading team for Chicago,"OU=Trading,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-trading@itpositive.com
+Chicago-Compliance,chicago-compliance,Security,Global,Compliance team for Chicago,"OU=Compliance,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-compliance@itpositive.com
+Chicago-IT,chicago-it,Security,Global,IT team for Chicago,"OU=IT,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-it@itpositive.com
+Chicago-HR,chicago-hr,Security,Global,HR team for Chicago,"OU=HR,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-hr@itpositive.com
+Chicago-Operations,chicago-operations,Security,Global,Operations team for Chicago,"OU=Operations,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-operations@itpositive.com
+Chicago-Finance,chicago-finance,Security,Global,Finance team for Chicago,"OU=Finance,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-finance@itpositive.com
+Chicago-Legal,chicago-legal,Security,Global,Legal team for Chicago,"OU=Legal,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-legal@itpositive.com
+Chicago-Marketing,chicago-marketing,Security,Global,Marketing team for Chicago,"OU=Marketing,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-marketing@itpositive.com
+Chicago-Customer Service,chicago-customer-service,Security,Global,Customer Service team for Chicago,"OU=Customer Service,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-customer-service@itpositive.com
+Chicago-Treasury Management,chicago-treasury-management,Security,Global,Treasury Management team for Chicago,"OU=Treasury Management,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-treasury-management@itpositive.com
+Chicago-Business Banking,chicago-business-banking,Security,Global,Business Banking team for Chicago,"OU=Business Banking,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-business-banking@itpositive.com
+Chicago-Investment Banking,chicago-investment-banking,Security,Global,Investment Banking team for Chicago,"OU=Investment Banking,OU=Chicago,OU=USA,OU=Enterprise,DC=itpositive,DC=com",chicago-investment-banking@itpositive.com
+Frankfurt-Trading,frankfurt-trading,Security,Global,Trading team for Frankfurt,"OU=Trading,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-trading@itpositive.com
+Frankfurt-Compliance,frankfurt-compliance,Security,Global,Compliance team for Frankfurt,"OU=Compliance,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-compliance@itpositive.com
+Frankfurt-IT,frankfurt-it,Security,Global,IT team for Frankfurt,"OU=IT,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-it@itpositive.com
+Frankfurt-HR,frankfurt-hr,Security,Global,HR team for Frankfurt,"OU=HR,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-hr@itpositive.com
+Frankfurt-Operations,frankfurt-operations,Security,Global,Operations team for Frankfurt,"OU=Operations,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-operations@itpositive.com
+Frankfurt-Finance,frankfurt-finance,Security,Global,Finance team for Frankfurt,"OU=Finance,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-finance@itpositive.com
+Frankfurt-Legal,frankfurt-legal,Security,Global,Legal team for Frankfurt,"OU=Legal,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-legal@itpositive.com
+Frankfurt-Marketing,frankfurt-marketing,Security,Global,Marketing team for Frankfurt,"OU=Marketing,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-marketing@itpositive.com
+Frankfurt-Customer Service,frankfurt-customer-service,Security,Global,Customer Service team for Frankfurt,"OU=Customer Service,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-customer-service@itpositive.com
+Frankfurt-Treasury Management,frankfurt-treasury-management,Security,Global,Treasury Management team for Frankfurt,"OU=Treasury Management,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-treasury-management@itpositive.com
+Frankfurt-Business Banking,frankfurt-business-banking,Security,Global,Business Banking team for Frankfurt,"OU=Business Banking,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-business-banking@itpositive.com
+Frankfurt-Investment Banking,frankfurt-investment-banking,Security,Global,Investment Banking team for Frankfurt,"OU=Investment Banking,OU=Frankfurt,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",frankfurt-investment-banking@itpositive.com
+Berlin-Trading,berlin-trading,Security,Global,Trading team for Berlin,"OU=Trading,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-trading@itpositive.com
+Berlin-Compliance,berlin-compliance,Security,Global,Compliance team for Berlin,"OU=Compliance,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-compliance@itpositive.com
+Berlin-IT,berlin-it,Security,Global,IT team for Berlin,"OU=IT,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-it@itpositive.com
+Berlin-HR,berlin-hr,Security,Global,HR team for Berlin,"OU=HR,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-hr@itpositive.com
+Berlin-Operations,berlin-operations,Security,Global,Operations team for Berlin,"OU=Operations,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-operations@itpositive.com
+Berlin-Finance,berlin-finance,Security,Global,Finance team for Berlin,"OU=Finance,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-finance@itpositive.com
+Berlin-Legal,berlin-legal,Security,Global,Legal team for Berlin,"OU=Legal,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-legal@itpositive.com
+Berlin-Marketing,berlin-marketing,Security,Global,Marketing team for Berlin,"OU=Marketing,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-marketing@itpositive.com
+Berlin-Customer Service,berlin-customer-service,Security,Global,Customer Service team for Berlin,"OU=Customer Service,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-customer-service@itpositive.com
+Berlin-Treasury Management,berlin-treasury-management,Security,Global,Treasury Management team for Berlin,"OU=Treasury Management,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-treasury-management@itpositive.com
+Berlin-Business Banking,berlin-business-banking,Security,Global,Business Banking team for Berlin,"OU=Business Banking,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-business-banking@itpositive.com
+Berlin-Investment Banking,berlin-investment-banking,Security,Global,Investment Banking team for Berlin,"OU=Investment Banking,OU=Berlin,OU=Germany,OU=Enterprise,DC=itpositive,DC=com",berlin-investment-banking@itpositive.com
+London Branch-Trading,london-branch-trading,Security,Global,Trading team for London Branch,"OU=Trading,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-trading@itpositive.com
+London Branch-Compliance,london-branch-compliance,Security,Global,Compliance team for London Branch,"OU=Compliance,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-compliance@itpositive.com
+London Branch-IT,london-branch-it,Security,Global,IT team for London Branch,"OU=IT,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-it@itpositive.com
+London Branch-HR,london-branch-hr,Security,Global,HR team for London Branch,"OU=HR,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-hr@itpositive.com
+London Branch-Operations,london-branch-operations,Security,Global,Operations team for London Branch,"OU=Operations,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-operations@itpositive.com
+London Branch-Finance,london-branch-finance,Security,Global,Finance team for London Branch,"OU=Finance,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-finance@itpositive.com
+London Branch-Legal,london-branch-legal,Security,Global,Legal team for London Branch,"OU=Legal,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-legal@itpositive.com
+London Branch-Marketing,london-branch-marketing,Security,Global,Marketing team for London Branch,"OU=Marketing,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-marketing@itpositive.com
+London Branch-Customer Service,london-branch-customer-service,Security,Global,Customer Service team for London Branch,"OU=Customer Service,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-customer-service@itpositive.com
+London Branch-Treasury Management,london-branch-treasury-management,Security,Global,Treasury Management team for London Branch,"OU=Treasury Management,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-treasury-management@itpositive.com
+London Branch-Business Banking,london-branch-business-banking,Security,Global,Business Banking team for London Branch,"OU=Business Banking,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-business-banking@itpositive.com
+London Branch-Investment Banking,london-branch-investment-banking,Security,Global,Investment Banking team for London Branch,"OU=Investment Banking,OU=London Branch,OU=UK,OU=Enterprise,DC=itpositive,DC=com",london-branch-investment-banking@itpositive.com
+Dubai-Trading,dubai-trading,Security,Global,Trading team for Dubai,"OU=Trading,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-trading@itpositive.com
+Dubai-Compliance,dubai-compliance,Security,Global,Compliance team for Dubai,"OU=Compliance,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-compliance@itpositive.com
+Dubai-IT,dubai-it,Security,Global,IT team for Dubai,"OU=IT,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-it@itpositive.com
+Dubai-HR,dubai-hr,Security,Global,HR team for Dubai,"OU=HR,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-hr@itpositive.com
+Dubai-Operations,dubai-operations,Security,Global,Operations team for Dubai,"OU=Operations,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-operations@itpositive.com
+Dubai-Finance,dubai-finance,Security,Global,Finance team for Dubai,"OU=Finance,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-finance@itpositive.com
+Dubai-Legal,dubai-legal,Security,Global,Legal team for Dubai,"OU=Legal,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-legal@itpositive.com
+Dubai-Marketing,dubai-marketing,Security,Global,Marketing team for Dubai,"OU=Marketing,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-marketing@itpositive.com
+Dubai-Customer Service,dubai-customer-service,Security,Global,Customer Service team for Dubai,"OU=Customer Service,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-customer-service@itpositive.com
+Dubai-Treasury Management,dubai-treasury-management,Security,Global,Treasury Management team for Dubai,"OU=Treasury Management,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-treasury-management@itpositive.com
+Dubai-Business Banking,dubai-business-banking,Security,Global,Business Banking team for Dubai,"OU=Business Banking,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-business-banking@itpositive.com
+Dubai-Investment Banking,dubai-investment-banking,Security,Global,Investment Banking team for Dubai,"OU=Investment Banking,OU=Dubai,OU=UAE,OU=Enterprise,DC=itpositive,DC=com",dubai-investment-banking@itpositive.com
+Doha-Trading,doha-trading,Security,Global,Trading team for Doha,"OU=Trading,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-trading@itpositive.com
+Doha-Compliance,doha-compliance,Security,Global,Compliance team for Doha,"OU=Compliance,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-compliance@itpositive.com
+Doha-IT,doha-it,Security,Global,IT team for Doha,"OU=IT,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-it@itpositive.com
+Doha-HR,doha-hr,Security,Global,HR team for Doha,"OU=HR,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-hr@itpositive.com
+Doha-Operations,doha-operations,Security,Global,Operations team for Doha,"OU=Operations,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-operations@itpositive.com
+Doha-Finance,doha-finance,Security,Global,Finance team for Doha,"OU=Finance,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-finance@itpositive.com
+Doha-Legal,doha-legal,Security,Global,Legal team for Doha,"OU=Legal,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-legal@itpositive.com
+Doha-Marketing,doha-marketing,Security,Global,Marketing team for Doha,"OU=Marketing,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-marketing@itpositive.com
+Doha-Customer Service,doha-customer-service,Security,Global,Customer Service team for Doha,"OU=Customer Service,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-customer-service@itpositive.com
+Doha-Treasury Management,doha-treasury-management,Security,Global,Treasury Management team for Doha,"OU=Treasury Management,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-treasury-management@itpositive.com
+Doha-Business Banking,doha-business-banking,Security,Global,Business Banking team for Doha,"OU=Business Banking,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-business-banking@itpositive.com
+Doha-Investment Banking,doha-investment-banking,Security,Global,Investment Banking team for Doha,"OU=Investment Banking,OU=Doha,OU=Qatar,OU=Enterprise,DC=itpositive,DC=com",doha-investment-banking@itpositive.com
+Hong Kong-Trading,hong-kong-trading,Security,Global,Trading team for Hong Kong,"OU=Trading,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-trading@itpositive.com
+Hong Kong-Compliance,hong-kong-compliance,Security,Global,Compliance team for Hong Kong,"OU=Compliance,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-compliance@itpositive.com
+Hong Kong-IT,hong-kong-it,Security,Global,IT team for Hong Kong,"OU=IT,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-it@itpositive.com
+Hong Kong-HR,hong-kong-hr,Security,Global,HR team for Hong Kong,"OU=HR,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-hr@itpositive.com
+Hong Kong-Operations,hong-kong-operations,Security,Global,Operations team for Hong Kong,"OU=Operations,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-operations@itpositive.com
+Hong Kong-Finance,hong-kong-finance,Security,Global,Finance team for Hong Kong,"OU=Finance,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-finance@itpositive.com
+Hong Kong-Legal,hong-kong-legal,Security,Global,Legal team for Hong Kong,"OU=Legal,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-legal@itpositive.com
+Hong Kong-Marketing,hong-kong-marketing,Security,Global,Marketing team for Hong Kong,"OU=Marketing,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-marketing@itpositive.com
+Hong Kong-Customer Service,hong-kong-customer-service,Security,Global,Customer Service team for Hong Kong,"OU=Customer Service,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-customer-service@itpositive.com
+Hong Kong-Treasury Management,hong-kong-treasury-management,Security,Global,Treasury Management team for Hong Kong,"OU=Treasury Management,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-treasury-management@itpositive.com
+Hong Kong-Business Banking,hong-kong-business-banking,Security,Global,Business Banking team for Hong Kong,"OU=Business Banking,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-business-banking@itpositive.com
+Hong Kong-Investment Banking,hong-kong-investment-banking,Security,Global,Investment Banking team for Hong Kong,"OU=Investment Banking,OU=Hong Kong,OU=China,OU=Enterprise,DC=itpositive,DC=com",hong-kong-investment-banking@itpositive.com
+Madrid-Trading,madrid-trading,Security,Global,Trading team for Madrid,"OU=Trading,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-trading@itpositive.com
+Madrid-Compliance,madrid-compliance,Security,Global,Compliance team for Madrid,"OU=Compliance,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-compliance@itpositive.com
+Madrid-IT,madrid-it,Security,Global,IT team for Madrid,"OU=IT,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-it@itpositive.com
+Madrid-HR,madrid-hr,Security,Global,HR team for Madrid,"OU=HR,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-hr@itpositive.com
+Madrid-Operations,madrid-operations,Security,Global,Operations team for Madrid,"OU=Operations,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-operations@itpositive.com
+Madrid-Finance,madrid-finance,Security,Global,Finance team for Madrid,"OU=Finance,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-finance@itpositive.com
+Madrid-Legal,madrid-legal,Security,Global,Legal team for Madrid,"OU=Legal,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-legal@itpositive.com
+Madrid-Marketing,madrid-marketing,Security,Global,Marketing team for Madrid,"OU=Marketing,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-marketing@itpositive.com
+Madrid-Customer Service,madrid-customer-service,Security,Global,Customer Service team for Madrid,"OU=Customer Service,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-customer-service@itpositive.com
+Madrid-Treasury Management,madrid-treasury-management,Security,Global,Treasury Management team for Madrid,"OU=Treasury Management,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-treasury-management@itpositive.com
+Madrid-Business Banking,madrid-business-banking,Security,Global,Business Banking team for Madrid,"OU=Business Banking,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-business-banking@itpositive.com
+Madrid-Investment Banking,madrid-investment-banking,Security,Global,Investment Banking team for Madrid,"OU=Investment Banking,OU=Madrid,OU=Spain,OU=Enterprise,DC=itpositive,DC=com",madrid-investment-banking@itpositive.com
