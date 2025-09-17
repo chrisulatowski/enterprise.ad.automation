@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 ![PowerShell](https://img.shields.io/badge/powershell-5.1%2B-5391FE.svg?logo=powershell)
 ![Shell](https://img.shields.io/badge/shell-bash-black.svg?logo=gnu-bash)
-[![CI](https://github.com/chrisulatowski/enterprise.ad.automation/actions/workflows/ci.yml/badge.svg)](https://github.com/chrisulatowski/enterprise.ad.automation/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 Active Directory automation framework for banking environments, managing users, groups, and OUs for 50,000+ accounts across 100 global locations. Supports secure bulk operations, compliance reporting (FCA, PCI DSS), and Azure Sentinel integration using PowerShell, Python, and Bash.
 
